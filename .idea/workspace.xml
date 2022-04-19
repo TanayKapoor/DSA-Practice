@@ -5,23 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fecac0ce-c118-4455-8172-d347f5e16328" name="Changes" comment="Added files">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSAPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/angryProfessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/balancedForest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bstInsertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/isThisBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kittyCalculations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lowestCommonAncestor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swapNodesAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/treeLevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/treeTopView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/treesHuffmanDecoding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SherlockAndSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZigZagSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/appendAndDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beautifulDaysAtTheMovies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/circularArrayRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extraLongFactorials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/findDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jumpingOnTheCloudsRevisited.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libraryFine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/saveThePrisoner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sequenceEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/viralAdvertising.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,8 +69,16 @@
       <updated>1649621567471</updated>
       <workItem from="1649621571429" duration="3190000" />
       <workItem from="1650043715849" duration="955000" />
-      <workItem from="1650347281079" duration="287000" />
+      <workItem from="1650347281079" duration="2745000" />
     </task>
+    <task id="LOCAL-00001" summary="Added files">
+      <created>1650347658412</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650347658413</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
